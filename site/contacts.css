@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://images.hdqwalls.com/download/james-webb-cosmic-cliffs-8k-sb-1920x1080.jpg);
+}
+.header{
+    background-color: rgba(125, 124, 124, 0.4);
+    color: white;
+    padding: 60px;
+    font-size: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+a img{
+    margin: auto 30px;
+    max-height:700px;
+    height: auto;
+    width: 140px;
+    
+}
+.inline-block{
+    display: inline-block;
+}

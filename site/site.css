@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://wallpaper.dog/large/20353650.jpg)
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.65);
+    color: white;
+    font-size: 20px;
+    margin-left: 7.5cm;
+    margin-right: 7.5cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header2{
+    margin-left: 7.5cm;
+    margin-right: 7.5cm;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    align-self: left;
+    background-color: rgb(0, 0, 0, 0.4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a img {
+    margin: auto 30px;
+    max-height:700px;
+    height: auto;
+    width: 140px;
+}
+.useless_header{
+    padding: 60px;
+    background-color: rgb(0, 0, 0, 0.65);
+    color: white;
+    font-size: 20px;
+    margin-left: 7.5cm;
+    margin-right: 7.5cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.useless_header img{
+    float: left;
+}
+.useless_header h1{
+    text-align: right;
+}
+.useless_header p{
+    text-align: right;
+}

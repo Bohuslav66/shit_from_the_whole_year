@@ -1,0 +1,7 @@
+.navbar a:hover{
+    color:red !important;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+}
